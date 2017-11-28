@@ -1,2 +1,1 @@
-# CS550
-com sci
+me say hello
